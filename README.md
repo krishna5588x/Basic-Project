@@ -1,1 +1,1 @@
-# Basic-Project
+Text Detection
